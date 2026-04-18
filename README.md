@@ -1,5 +1,5 @@
 # python functions 
-This repository contains Python programs based on Chapter 5: Functions. The files include practical exercises and examples that demonstrate how functions are used to structure programs, improve readability, and make code reusable.
+This repository contains Python programs based on functions. The files include practical exercises and examples that demonstrate how functions are used to structure programs, improve readability, and make code reusable.
 
 The focus is on understanding both void functions and value-returning functions, as well as working with built-in Python modules such as `math` and `random`.
 
